@@ -3,10 +3,9 @@
 import { useState, useEffect } from 'react'
 import Image from 'next/image'
 import Section from './Section'
-import themeImg from '@/public/images/theme1.png'
-import crownImg from '@/public/images/crown.png'
-import sprayCanImg from '@/public/images/spraycan.png'
 import aheadImg from '@/public/images/ahead.png'
+import Link from 'next/link'
+import Button from './Button'
 
 export default function IndexSection() {
     const [timeLeft, setTimeLeft] = useState(calculateTimeLeft())
@@ -37,14 +36,19 @@ export default function IndexSection() {
         <Section id="#">
             <div className='flex flex-wrap gap-5'>
                 {/* <div className='absolute top-1/2 lg:left-1/4 left-1/2 transform -translate-x-1/2 -translate-y-1/2 overflow-hidden'> */}
-                <div className='bg-black/50 gap-3 w-full lg:w-[500px] h-[550px] max-w-[500px] flex justify-between items-center flex-col p-5 rounded-3xl'>
+                <div className='bg-black/50 gap-3 w-full lg:w-[500px] mt-10 min-h-[550px] max-w-[500px] flex justify-between items-center flex-col p-5 rounded-3xl'>
                     <div className='flex min-w-[300px]'>
-                        <h1 className='font-LUSER text-6xl text-center'>expression<br /> beyond limit</h1>
+                        <h1 className='font-LUSER text-6xl text-center'>expression beyond limits</h1>
                         {/* <Image src={themeImg} className="w-[40em] ml-[50px]" alt='' /> */}
                     </div>
-                    <video controls autoPlay muted loop className="max-w-[300px] lg:hidden sm:block">
-                        <source src="/theme.mp4" type='video/mp4' />
-                    </video>
+                    <div className="max-w-[200px] lg:hidden sm:flex flex-col">
+                        <video controls autoPlay muted loop className='rounded-xl'>
+                            <source src="/dj.mp4" type='video/mp4' />
+                        </video>
+                        <center>
+                            <Link href="https://imjo.in/Pf7D62" className="text-3xl"><Button className="mt-5 bg-red-500 w-48">DJ PASS</Button></Link>
+                        </center>
+                    </div>
                     <div className='w-full flex justify-center items-center'>
                         <Image src={aheadImg} className="hidden lg:block w-[200px]" />
                         <div className='flex flex-col items-center font-bold font-SivarPro'>
@@ -55,7 +59,7 @@ export default function IndexSection() {
                                     <h6>DAYS</h6>
                                 </div>
                                 <div>
-                                    {timeLeft.hours - 5}
+                                    {timeLeft.hours}
                                     <h6>HOURS</h6>
                                 </div>
                                 <div>
@@ -70,10 +74,11 @@ export default function IndexSection() {
                         </div>
                     </div>
                 </div>
-                <div className="max-w-[700px] hidden lg:flex items-center">
-                    <video autoPlay controls muted loop>
-                        <source src="/theme.mp4" type='video/mp4' />
+                <div className="max-w-[250px] hidden lg:flex flex-col justify-center items-center">
+                    <video autoPlay controls muted loop className='rounded-xl mt-[26px]'>
+                        <source src="/dj.mp4" type='video/mp4' />
                     </video>
+                    <Link href="https://imjo.in/Pf7D62" className="mt-5 text-5xl"><Button className="bg-red-500">DJ PASS</Button></Link>
                 </div>
             </div>
         </Section>

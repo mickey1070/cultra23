@@ -1,7 +1,7 @@
 {
     "Events": [
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "SYNERGY",
             "Event": "Indian Group Singing",
@@ -25,7 +25,7 @@
             "Reg link": "https://imjo.in/fKwQ52"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "ECHOES",
             "Event": "Western Group Singing",
@@ -49,7 +49,7 @@
             "Reg link": "https://imjo.in/PHMznw"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "MALHARA\n",
             "Event": "Indian Solo Singing",
@@ -73,7 +73,7 @@
             "Reg link": "https://imjo.in/yPk98U"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "WESTEREO\n",
             "Event": "Western Solo Singing",
@@ -87,9 +87,9 @@
             "1st Place": "2000",
             "2nd Place": "1000",
             "EC1 Name": "Abhinash Raul",
-            "EC1 No.": "1CR21CS004",
+            "EC1 No.": "6361864809",
             "EC2 Name": "Aiban Lamphang Dkhar",
-            "EC2 No.": "1CR21CS016",
+            "EC2 No.": "9436718852",
             "Poster": "https://drive.google.com/file/d/1_ia-zgRVlbyWrg-HWk6drm-BC0middP2/view?usp=share_link",
             "caption": "",
             "Status": "",
@@ -97,7 +97,7 @@
             "Reg link": "https://imjo.in/46z6pQ"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "BATTLE OF BANDS",
             "Event": "Battle of Bands",
@@ -121,7 +121,7 @@
             "Reg link": "https://imjo.in/9xTbNG"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "DROP THE MIC",
             "Event": "RAP BATTLE",
@@ -145,7 +145,7 @@
             "Reg link": "https://imjo.in/eYyFXj"
         },
         {
-            "Category": "Music",
+            "field1": "Music",
             "Club Name": "Aarohan",
             "Event Name": "SYNTHESIZE",
             "Event": "Instrumental Solo",
@@ -169,7 +169,7 @@
             "Reg link": "https://imjo.in/sPzEJG"
         },
         {
-            "Category": "Dance",
+            "field1": "Dance",
             "Club Name": "Pregos",
             "Event Name": "Kick n Crew",
             "Event": "Western Group Dance",
@@ -193,7 +193,7 @@
             "Reg link": "https://imjo.in/4JQWK2"
         },
         {
-            "Category": "Dance",
+            "field1": "Dance",
             "Club Name": "Pregos",
             "Event Name": "Two for tango",
             "Event": "Duo Dance",
@@ -217,7 +217,7 @@
             "Reg link": "https://imjo.in/SjKE82"
         },
         {
-            "Category": "Dance",
+            "field1": "Dance",
             "Club Name": "Pregos",
             "Event Name": "Switch Foot",
             "Event": "Solo Dance",
@@ -241,7 +241,7 @@
             "Reg link": "https://imjo.in/juByTB"
         },
         {
-            "Category": "Dance",
+            "field1": "Dance",
             "Club Name": "Pregos",
             "Event Name": "1 Vs 1",
             "Event": "1 Vs 1",
@@ -265,7 +265,7 @@
             "Reg link": "https://imjo.in/6Bzbtd"
         },
         {
-            "Category": "Dance",
+            "field1": "Dance",
             "Club Name": "Pregos",
             "Event Name": "Kinkini",
             "Event": "Solo Classical Dance",
@@ -289,7 +289,7 @@
             "Reg link": "https://imjo.in/hy5aZq"
         },
         {
-            "Category": "Literary",
+            "field1": "Literary",
             "Club Name": "Minerva",
             "Event Name": "Mock Trial Mayhem",
             "Event": "",
@@ -313,7 +313,7 @@
             "Reg link": "https://imjo.in/2MwMcx"
         },
         {
-            "Category": "Literary",
+            "field1": "Literary",
             "Club Name": "Minerva",
             "Event Name": "Proze Puzzle",
             "Event": "",
@@ -337,7 +337,7 @@
             "Reg link": "https://imjo.in/sEjduJ"
         },
         {
-            "Category": "Literary",
+            "field1": "Literary",
             "Club Name": "Minerva",
             "Event Name": "The 60 Second Showdown",
             "Event": "",
@@ -361,7 +361,7 @@
             "Reg link": "https://imjo.in/sEjduJ"
         },
         {
-            "Category": "Literary",
+            "field1": "Literary",
             "Club Name": "Minerva",
             "Event Name": "Fiction Frenzy",
             "Event": "POP CULTURE TRIVIA",
@@ -385,7 +385,7 @@
             "Reg link": "https://imjo.in/xtJd7W"
         },
         {
-            "Category": "Photography",
+            "field1": "Photography",
             "Club Name": "IRIS",
             "Event Name": "Seven Deadly Sins",
             "Event": "Mobile Photography",
@@ -409,7 +409,7 @@
             "Reg link": "https://imjo.in/RRxjKT"
         },
         {
-            "Category": "Photography",
+            "field1": "Photography",
             "Club Name": "IRIS",
             "Event Name": "The Five Senses",
             "Event": "DSLR Photography",
@@ -433,7 +433,7 @@
             "Reg link": "https://imjo.in/cFD4h5"
         },
         {
-            "Category": "Digital Media",
+            "field1": "Digital Media",
             "Club Name": "Muses",
             "Event Name": "MS PAINT",
             "Event": "Graphic Design",
@@ -457,7 +457,7 @@
             "Reg link": "https://imjo.in/fy93fk"
         },
         {
-            "Category": "Digital Media",
+            "field1": "Digital Media",
             "Club Name": "Muses",
             "Event Name": "Album Cover Redesign",
             "Event": "Graphic redesign",
@@ -481,7 +481,7 @@
             "Reg link": "https://imjo.in/cEtmSR"
         },
         {
-            "Category": "Digital Media",
+            "field1": "Digital Media",
             "Club Name": "Muses",
             "Event Name": "Reel it",
             "Event": "Video Editing",
@@ -505,7 +505,7 @@
             "Reg link": "https://imjo.in/tt7y2E"
         },
         {
-            "Category": "Theatre",
+            "field1": "Theatre",
             "Club Name": "Take a bow\nproductions",
             "Event Name": "Monologue",
             "Event": "Monologue",
@@ -529,12 +529,12 @@
             "Reg link": "https://imjo.in/ctnFHg"
         },
         {
-            "Category": "Theatre",
+            "field1": "Theatre",
             "Club Name": "Take a bow\nproductions",
             "Event Name": "Improv",
             "Event": "Improv",
             "Description": "Make a scene on the spot!",
-            "Rules and Regulations": "\nNo of participants: 02\n\nRules and Regulations-\n-Copying your competitor's work is not allowed.\n-The number of rounds will be decided prior to the event based on the number of participants.\n-The judging criteria will be based on technique, rhythm, originality, creativity, and interaction with the audience.\n-Any malpractice/vulgarity will lead to disqualification.\n-Decision of the judges will be final.\n-Time limit: 5+1 min. \n-The team members must be from the same college.",
+            "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-Copying your competitor's work is not allowed.\n-The number of rounds will be decided prior to the event based on the number of participants.\n-The judging criteria will be based on technique, rhythm, originality, creativity, and interaction with the audience.\n-Any malpractice/vulgarity will lead to disqualification.\n-Decision of the judges will be final.\n-Time limit: 5+1 min. \n-The team members must be from the same college.",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -553,12 +553,12 @@
             "Reg link": "https://imjo.in/YXstYA"
         },
         {
-            "Category": "Theatre",
+            "field1": "Theatre",
             "Club Name": "Take a bow\nproductions",
             "Event Name": "Madads",
             "Event": "Group act",
             "Description": "Bring out the madness in drama!",
-            "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-Hindi/English/Kannada can be used for the performance.\n-Creativity and way of presentation are the two most important parameters.\n-Decision of the judges will be final and binding.\n-Act should follow the time limit strictly. It should not exceed the time limit.\n-Any kind of vulgarity will lead to direct disqualification.\n-Time Limit: 4+1 minutes\n",
+            "Rules and Regulations": "\nNo of participants: 08+02\n\nRules and Regulations-\n-Hindi/English/Kannada can be used for the performance.\n-Creativity and way of presentation are the two most important parameters.\n-Decision of the judges will be final and binding.\n-Act should follow the time limit strictly. It should not exceed the time limit.\n-Any kind of vulgarity will lead to direct disqualification.\n-Time Limit: 4+1 minutes\n",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -577,7 +577,7 @@
             "Reg link": "https://imjo.in/yK8XKE"
         },
         {
-            "Category": "Theatre",
+            "field1": "Theatre",
             "Club Name": "Take a bow\nproductions",
             "Event Name": "Street play",
             "Event": "Group Play",
@@ -601,7 +601,7 @@
             "Reg link": "https://imjo.in/pkVUah"
         },
         {
-            "Category": "Theatre",
+            "field1": "Theatre",
             "Club Name": "Take a bow\nproductions",
             "Event Name": "Mimica",
             "Event": "Mime",
@@ -625,7 +625,7 @@
             "Reg link": "https://imjo.in/TWcjeq"
         },
         {
-            "Category": "Kannada",
+            "field1": "Kannada",
             "Club Name": "Samskruthi\nKannada",
             "Event Name": "K.G.F",
             "Event": "",
@@ -649,7 +649,7 @@
             "Reg link": "https://imjo.in/VNU6mH"
         },
         {
-            "Category": "Kannada",
+            "field1": "Kannada",
             "Club Name": "Samskruthi\nKannada",
             "Event Name": "Kannadada kuvara",
             "Event": "",
@@ -673,7 +673,7 @@
             "Reg link": "https://imjo.in/6G5gRv"
         },
         {
-            "Category": "Kannada",
+            "field1": "Kannada",
             "Club Name": "Samskruthi\nKannada",
             "Event Name": "Ogatina kurchi",
             "Event": "",
@@ -697,7 +697,7 @@
             "Reg link": "https://imjo.in/NawE8A"
         },
         {
-            "Category": "Kannada",
+            "field1": "Kannada",
             "Club Name": "Samskruthi\nKannada",
             "Event Name": "Abhinaya chakravarthi",
             "Event": "",
@@ -721,7 +721,7 @@
             "Reg link": "https://imjo.in/QKrM43"
         },
         {
-            "Category": "Art",
+            "field1": "Art",
             "Club Name": "Arted",
             "Event Name": "Doodle Your Way",
             "Event": "",
@@ -745,7 +745,7 @@
             "Reg link": "https://imjo.in/aEFCJK"
         },
         {
-            "Category": "Art",
+            "field1": "Art",
             "Club Name": "Arted",
             "Event Name": "Bookmark painting",
             "Event": "",
@@ -769,7 +769,7 @@
             "Reg link": "https://imjo.in/s28USn"
         },
         {
-            "Category": "Art",
+            "field1": "Art",
             "Club Name": "Arted",
             "Event Name": "Face painting",
             "Event": "",
@@ -793,7 +793,7 @@
             "Reg link": "https://imjo.in/TsxN9T"
         },
         {
-            "Category": "Fashion",
+            "field1": "Fashion",
             "Club Name": "Kryptonite",
             "Event Name": "Fashion Show",
             "Event": "",
@@ -817,7 +817,7 @@
             "Reg link": "https://imjo.in/vamZ5g"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "Mindspark",
             "Event Name": "THE FINAL STAND",
             "Event": "",
@@ -841,7 +841,7 @@
             "Reg link": "https://imjo.in/gwrqCF"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "RISE",
             "Event Name": "CODE HEIST\n",
             "Event": "",
@@ -865,7 +865,7 @@
             "Reg link": "https://imjo.in/6ymQzz"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "Connaissance",
             "Event Name": "KAINOTOMIA",
             "Event": "",
@@ -889,7 +889,7 @@
             "Reg link": "https://imjo.in/qf8M2P"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "FEEE",
             "Event Name": "Tech Toss",
             "Event": "A quiz and impromptu speech based on your technical knowledge",
@@ -913,7 +913,7 @@
             "Reg link": "https://imjo.in/nHxNBF"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "SOCE",
             "Event Name": "CLASH OF MARTHANIAS",
             "Event": "A quiz and fun game enhancing your technical skills",
@@ -937,7 +937,7 @@
             "Reg link": "https://imjo.in/kEDfAj"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "Cybernauts",
             "Event Name": "Dare hunt",
             "Event": "Thrilling Scavenger hunt-style  competition",
@@ -961,7 +961,7 @@
             "Reg link": "https://imjo.in/fEtCcY"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "Code Chef",
             "Event Name": "Back the Bug\n",
             "Event": "",
@@ -985,7 +985,7 @@
             "Reg link": "https://imjo.in/XQbd5M"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "Startup Club",
             "Event Name": "Startup Showdown\n",
             "Event": "",
@@ -1009,7 +1009,7 @@
             "Reg link": "https://imjo.in/RpEAaQ"
         },
         {
-            "Category": "Technical",
+            "field1": "Technical",
             "Club Name": "IEEE",
             "Event Name": "Hustle for Hazine",
             "Event": "",
@@ -1033,7 +1033,7 @@
             "Reg link": "https://imjo.in/We2gsc"
         },
         {
-            "Category": "Informal",
+            "field1": "Informal",
             "Club Name": "OC",
             "Event Name": "Flex - It",
             "Event": "",
@@ -1057,11 +1057,11 @@
             "Reg link": "https://imjo.in/SmzCcg"
         },
         {
-            "Category": "Informal",
+            "field1": "Informal",
             "Club Name": "OC",
             "Event Name": "BLR Nine-Nine",
             "Event": "",
-            "Description": "",
+            "Description": "Follow clues, solve puzzles, and crack the case!",
             "Rules and Regulations": "\nNo of participants: 02\n\nRules and Regulations-\nUsage of the internet during the competition is prohibited.\nAny kind of malpractice will result in disqualification.\nThe decision of the event organizers on any and all issues and discrepancies will be final.\nThe rounds and other event details are subject to change without prior notice.\n\nRound 1:\nThe first round will be a pen and paper round in which the participants detective, analytical and logical skills will be put to the test. \n\nRound 2:\nIn the second round , the teams will be handed an unsolved case with all the required resources. They will be required to investigate the crime scene, interrogate suspects and deduce the most suitable conclusion to the case. \n\nRound 3:\nThe final round is where the real crime awaits, The Heist.",
             "Time": "",
             "Venue": "",
@@ -1081,11 +1081,11 @@
             "Reg link": "https://imjo.in/bkBQkV"
         },
         {
-            "Category": "Informal",
+            "field1": "Informal",
             "Club Name": "OC",
             "Event Name": "Hogathon",
             "Event": "",
-            "Description": "",
+            "Description": "Invoke the Bakasur in you!",
             "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-Two rounds will be held.\n- In the first round, teams of 5 participants are formed.\n- One participant from each team will qualify for the next round.\n- In the last round, the first person to finish will be declared the winner.\n- The final decision regarding the competition lies with the organizers.",
             "Time": "",
             "Venue": "",
@@ -1105,12 +1105,12 @@
             "Reg link": "https://imjo.in/VQJeJd"
         },
         {
-            "Category": "Informal",
+            "field1": "Informal",
             "Club Name": "OC",
-            "Event Name": "Fold & Fly",
+            "Event Name": "Fold And Fly",
             "Event": "",
-            "Description": "",
-            "Rules and Regulations": "\n\nNo of participants: 01\n\nRules and Regulations-\nA minimum of four folds is mandatory on the provided paper, and they must resemble the shape of a plane.",
+            "Description": "Fold. Fly. Win.",
+            "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-A minimum of four folds is mandatory on the provided paper, and they must resemble the shape of a plane.\n-Participants must fold their own paper planes. No pre-made or pre-folded planes are allowed.\n-The competition will be held in a long narrow corridor, and the plane touching the walls during flight will result in disqualification.\n-Participants will take turns launching their planes from the designated take-off area. Only one plane may be launched at a time.\n-The winner of the competition is the participant whose plane flies the farthest distance from the take-off area..\n-All planes must be constructed using only the materials provided and according to the rules of the competition. Cheating and unsportsmanlike conduct will not be tolerated and can result in disqualification.",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -1129,12 +1129,12 @@
             "Reg link": "https://imjo.in/sMZgpT"
         },
         {
-            "Category": "Gaming",
+            "field1": "Gaming",
             "Club Name": "OC",
             "Event Name": "Call of Duty Mobile",
             "Event": "",
-            "Description": "",
-            "Rules and Regulations": "No of Participants: 01\n Time limit: 20 min\n Score limit: unlimited\n Qualifying rounds: 03\n Final rounds: 03\n General Settings\n Spectating: disabled\n Mini-map: Normal\n Battle Chatter: Disabled\n Health: Normal\n Health Regeneration: Normal\n Number of Lives: Unlimited\n Weapons: All weapons allowed\n Attachments: Grenade launcher not allowed\n Perks not allowed: Juggernaut, Last stand, Martyrdom\n Requirements: Carry your own mobile phone installed withCallofDuty",
+            "Description": "A single player Death Match",
+            "Rules and Regulations": "\nNo of Participants: 01\n\nRules and Regulations-\n-Time limit: 20 min\n-Score limit: unlimited\n-Qualifying rounds: 03\n-Final rounds: 03\n-General Settings\n-Spectating: disabled\n-Mini-map: Normal\n-Battle Chatter: Disabled\n-Health: Normal\n-Health Regeneration: Normal\n-Number of Lives: Unlimited\n-Weapons: All weapons allowed\n-Attachments: Grenade launcher not allowed\n-Perks not allowed: Juggernaut, Last stand, MartyrdoRequirements: Carry your own mobile phone installed with Call of Duty\"",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -1153,12 +1153,12 @@
             "Reg link": "https://imjo.in/ZXchcn"
         },
         {
-            "Category": "Gaming",
+            "field1": "Gaming",
             "Club Name": "OC",
             "Event Name": "Valorant",
             "Event": "",
-            "Description": "",
-            "Rules and Regulations": "No of participants: 5\n-Registrations will close as soon as 32 teams have registered.\n-Preliminary rounds will be held online from the 31st of May 2023\n-Preliminary rounds will be in a first to 2 format.\n-Finals will be held on the 9th and will be a first to 3 format",
+            "Description": "Headshot, Disarm, Survive",
+            "Rules and Regulations": "No of participants: 5\n-Registrations will close as soon as 32 teams have registered.\n-Preliminary rounds will be held online from the 31st of May 2023\n-Preliminary rounds will be in a first to 2 format.\n-Finals few rounds will be held on 9th June",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -1177,12 +1177,12 @@
             "Reg link": "https://imjo.in/8gPz9M"
         },
         {
-            "Category": "Gaming",
+            "field1": "Gaming",
             "Club Name": "OC",
             "Event Name": "FIFA",
             "Event": "",
-            "Description": "",
-            "Rules and Regulations": "No of participants: 1\n Knockout based 1 vs 1 event.\n Winner proceeds to the next round.\n Participants can choose any team except Classic XI and World XI.\n Weather: Clear\n Other settings: Default\n Difficulty Level: World Class\n Time Duration: 10 Minutes for Round Matches (5 mins per half)\n 14 Minutes for Semi Finals and Finals (7 mins per half)",
+            "Description": "Stun everyone with your skill!",
+            "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-Knockout based 1 vs 1 event.\n-Winner proceeds to the next round.\n-Participants can choose any team except Classic XI and World XI.\n-Weather: Clear\n-Other settings: Default\n-Difficulty Level: World Class\n-Time Duration: 10 Minutes for Round Matches (5 mins per half)\n-14 Minutes for Semi Finals and Finals (7 mins per half)\"",
             "Time": "",
             "Venue": "",
             "Day": "",
@@ -1201,12 +1201,12 @@
             "Reg link": "https://imjo.in/B6vE9y"
         },
         {
-            "Category": "Gaming",
+            "field1": "Gaming",
             "Club Name": "OC",
             "Event Name": "F1 Racing",
             "Event": "",
-            "Description": "",
-            "Rules and Regulations": "No of participants:1\n-Knockout based format\n-Any Driver can be chosen\n-Time trial format: Players with best time in a track go onto the next round\n-Display Ghost Off",
+            "Description": "Unleash your inner racer and dominate the track!",
+            "Rules and Regulations": "\nNo of participants: 01\n\nRules and Regulations-\n-Knockout based format\n-Any Driver can be chosen\n-Time trial format: Players with best time in a track go onto the next round\n-Display Ghost Off\"",
             "Time": "",
             "Venue": "",
             "Day": "",
